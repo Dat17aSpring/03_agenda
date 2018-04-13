@@ -1,4 +1,4 @@
-# #5 Create a Web Page with a List of Students
+# #3 Create a Web Page with a List of Students
 ## The Job today is to create this index page
 
 <img src="/students_index.png" />   
