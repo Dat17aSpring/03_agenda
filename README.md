@@ -14,7 +14,8 @@ This will involve:
 
 ## Literature
 This will be equevalent to what I show you in class.
-* [Creating a Students list page](https://github.com/Dat17aSpring/03_tutorial_students_list)    
+* [Creating a Students list page](https://github.com/Dat17aSpring/03_tutorial_students_list) 
+* [thymeleaf standard expression syntax](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#standard-expression-syntax)
 * [Model documentation](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html)
 
 ## Exercises
